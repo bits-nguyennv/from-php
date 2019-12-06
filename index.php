@@ -13,5 +13,5 @@ if($username == "anhnguyen" and $pass == "123456"){
 }elseif($pass != 123456){
     echo 'không đăng nhập được';
 }
-
 ?>
+
