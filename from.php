@@ -18,7 +18,8 @@
 session_start();
 if(isset($_SESSION['use']) && $_SESSION['pass']){
     var_dump($_SESSION);
-  }
-  die();
+}
+die();
 ?>
+
 
